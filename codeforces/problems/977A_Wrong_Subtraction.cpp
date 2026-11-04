@@ -14,6 +14,8 @@ int main()
         else
             n /= 10;
     }
+    
     cout << n;
+
     return 0;
-} 
+}
